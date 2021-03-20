@@ -1,4 +1,4 @@
-# Real-TIme-Bus-Tracker
+# Real-Time-Bus-Tracker
 Description
 
 <h2> How to Run </h2>
