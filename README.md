@@ -2,6 +2,10 @@
 Description
 
 <h2> How to Run </h2>
+#Step 1: Install Visual Studio Code 
+#Step 2: Download html file 
+#Step 3: Open Chrome 
+#Step 4: Drag and drop the html file into the browser
 
 <h2> Roadmap for Future Improvements </h2>
 
