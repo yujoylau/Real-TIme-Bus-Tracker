@@ -2,10 +2,10 @@
 Description
 
 <h2> How to Run </h2>
-<li> #1 Download the files locally into your computer (ensure that they are in the same directory/folder)<li>
-#2 Open chrome browser 
-#3 Drag and drop the index.html file into the browser
-#4 Enjoy! <Li>
+<li> #1 Download the files locally into your computer (ensure that they are in the same directory/folder)
+<li> #2 Open chrome browser 
+<li> #3 Drag and drop the index.html file into the browser
+<li> #4 Enjoy! 
 
 <h2> Roadmap for Future Improvements </h2>
 
