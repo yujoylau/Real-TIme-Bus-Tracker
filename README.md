@@ -2,8 +2,8 @@
 Description
 
 <h2> How to Run </h2>
-#1 Download the files locally into your computer (ensure that they are in the same directory/folder)
-#2 Open chrome browser 
+<li> #1 Download the files locally into your computer (ensure that they are in the same directory/folder)<li>
+<li> #2 Open chrome browser <li>
 #3 Drag and drop the index.html file into the browser
 #4 Enjoy!
 
