@@ -8,6 +8,7 @@ Description
 <li> #4 Enjoy! 
 
 <h2> Roadmap for Future Improvements </h2>
+<liL #1 Changing the icon "red" whenever the bus is at that stop
 
 <h2> License Information </h2> 
 
