@@ -1,5 +1,10 @@
 # Real-Time-Bus-Tracker
-Description
+This exercise shows how to:
+<li> Add a map to a HTML using API
+<li> Enter the set of langtitude and longtitude
+<li> Add a marker 
+<li> Move the marker along the bustops (langtitude/longtitude that was entered)
+ The end result is the marker moving along the map!
 
 <h2> How to Run </h2>
 <li> #1 Download the files locally into your computer (ensure that they are in the same directory/folder)
@@ -8,7 +13,10 @@ Description
 <li> #4 Enjoy! 
 
 <h2> Roadmap for Future Improvements </h2>
-<liL #1 Changing the icon "red" whenever the bus is at that stop
+<li> #1 Changing the icon "red" whenever the bus is at that stop
+<li> #2 Changing to a nicer bus icon
+<li> #3 Providing some other information about/around the busstops when the marker reaches
+
 
 <h2> License Information </h2> 
 
