@@ -3,9 +3,9 @@ Description
 
 <h2> How to Run </h2>
 <li> #1 Download the files locally into your computer (ensure that they are in the same directory/folder)<li>
-<li> #2 Open chrome browser <li>
+#2 Open chrome browser 
 #3 Drag and drop the index.html file into the browser
-#4 Enjoy!
+#4 Enjoy! <Li>
 
 <h2> Roadmap for Future Improvements </h2>
 
